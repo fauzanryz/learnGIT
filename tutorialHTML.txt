@@ -4,6 +4,5 @@ Tutorial HTML
 <head>...</head> = Header
 <body>...</body> = Body
 <h1>...</h1> = Header 1
-<h2>..</h2> = Header 2
 <p>...</p> = Paragraf
 <br> = Break
