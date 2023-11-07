@@ -1,5 +1,7 @@
 Tutorial HTML
 
+<title>...</title> = Title
+<head>...</head> = Header
 <body>...</body> = Body
 <h1>...</h1> = Header 1
 <h2>..</h2> = Header 2
