@@ -1,6 +1,6 @@
 Tutorial HTML
 
-<body>...</body> = Body
+<body>...</body>
 <footer>...</footer> = Footer
 <h1>...</h1> = Header 1
 <p>...</p> = Paragraf
