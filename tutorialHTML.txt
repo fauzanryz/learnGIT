@@ -1,7 +1,8 @@
 Tutorial HTML
 
-<body>...</body>
-<footer>...</footer> = Footer
+<title>...</title> = Title
+<head>...</head> = Header
+<body>...</body> = Body
 <h1>...</h1> = Header 1
 <p>...</p> = Paragraf
 <br> = Break
