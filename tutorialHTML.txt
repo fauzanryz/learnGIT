@@ -3,6 +3,7 @@ Tutorial HTML
 <title>...</title> = Title
 <head>...</head> = Header
 <body>...</body> = Body
+<footer>...</footer> = Footer
 <h1>...</h1> = Header 1
 <p>...</p> = Paragraf
 <br> = Break
